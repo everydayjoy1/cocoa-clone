@@ -1,3 +1,3 @@
 # cocoa-clone
 
-css got so much better!
+html and css got so much better!
